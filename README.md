@@ -1,4 +1,3 @@
-# wqt-zst.github.io
 <!DOCTYPE html>
 <html>
 <body>
